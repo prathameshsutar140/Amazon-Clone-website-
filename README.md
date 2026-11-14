@@ -1,2 +1,2 @@
-# Prathamesh-Sutar
-Amazon Clone Website Project
+
+# Amazon Clone Website Project
